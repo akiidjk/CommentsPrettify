@@ -1,4 +1,4 @@
-# The comments exstension
+# CommentsPrettify exstension
 
 This extension aims to speed up and improve the style of your comments for make them totally customizable and readable
 
